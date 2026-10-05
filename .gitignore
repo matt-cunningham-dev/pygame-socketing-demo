@@ -1,0 +1,21 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python Bytecode & Cache (Crucial for Python/Pygame)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (if you use venv)
+venv/
+env/
+ENV/
+
+# IDE & Editor Settings (since you use Neovim/VS Code)
+.vscode/
+.idea/
+*.swp
+*.swo
